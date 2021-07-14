@@ -1,7 +1,7 @@
 class DockerConnector < Formula
   desc "Provides the ability for the mac computer to directly access the docker container"
-  homepage "https://github.com/wenjunxiao/mac-docker-connector"
-  url "https://github.com/wenjunxiao/mac-docker-connector/releases/download/v2.2/docker-connector-darwin.tar.gz"
+  homepage "https://github.com/PillHe/mac-docker-connector"
+  url "https://github.com/PillHe/mac-docker-connector/releases/download/v2.2/docker-connector-darwin.tar.gz"
   sha256 "bc49402baa60cdd36b726768417b846e8127b717b712334c13b1b786b7a61e75"
   version "2.2"
   def install
