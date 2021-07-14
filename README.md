@@ -5,21 +5,21 @@
 ## Usage
 
   Once this tap is installed, you can install the tools I provided through brew. 
-  Such as, [mac-docker-connector](https://github.com/wenjunxiao/mac-docker-connector).
+  Such as, [Mac-Docker-Connector](https://github.com/PillHe/Mac-Docker-Connector).
 ```bash
-$ brew tap wenjunxiao/brew
+$ brew tap PillHe/brew
 $ brew install docker-connector
 $ brew install docker-accessor
 ```
 
   Or you can directly install through the following command, when there is a name conflict or not.
 ```bash
-$ brew install wenjunxiao/brew/docker-connector
+$ brew install PillHe/brew/docker-connector
 ```
 
-  If github is slow, also can install from [gitee.com](https://gitee.com/wenjunxiao)
+  If github is slow, also can install from [gitee.com](https://gitee.com/PillHe)
 ```bash
-$ brew tap wenjunxiao/brew https://gitee.com/wenjunxiao/homebrew-brew
+$ brew tap wenjunxiao/brew https://gitee.com/PillHe/homebrew-brew
 ```
 
   Here is a command to view the installation location of tap
