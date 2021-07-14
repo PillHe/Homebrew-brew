@@ -1,7 +1,7 @@
 class DockerAccessor < Formula
   desc "Provides the ability to access access the docker container of mac computer"
-  homepage "https://github.com/PillHe/mac-docker-connector/tree/master/accessor"
-  url "https://github.com/PillHe/mac-docker-connector/releases/download/v2.2/docker-accessor-darwin.tar.gz"
+  homepage "https://github.com/PillHe/Mac-Docker-Connector/tree/master/accessor"
+  url "https://github.com/PillHe/Mac-Docker-Connector/releases/download/v2.2/docker-accessor-darwin.tar.gz"
   sha256 "8a3ce874a7245235d67f3ba53b3fdecadee8b252ac38e980faa25c55e873d330"
   version "2.2"
   def install
